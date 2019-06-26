@@ -22,8 +22,8 @@ To get .tde output from R
 1. Open Cammond Prompt
 2. Navigate to location of Python installation
 3. Type the following commands:
-  >>Python
-  >> import tableausdk
+  />>Python
+  />> import tableausdk
  + exit()
 4. python -m setup.py install or pip install pandleau
 
