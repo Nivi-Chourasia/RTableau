@@ -15,16 +15,17 @@ To get .tde output from R
 #### Setting up Tableausdk
 1. Extract the Tableausdk folder
 2. Copy the contents of the folder
-3. Go to the folder python folder in Python installation (C:/User/nchourasia/Appdata/Local/Program/Python)
+3. Go to the folder python folder in Python installation (C:/User/nchourasia/Appdata/Local/Program/Python32)
 4. Paste the contents of Tableausdk
 
 ### Installing Pandleau
 1. Open Cammond Prompt
 2. Navigate to location of Python installation
-3. Type the following commands:
-   >>Python
-  >> import tableausdk
-  >> exit()
+3. Type the following commands (highlighted part):
+  C:\Users\Nchourasia\Appdat\Local\Program\Python32 >> ##Python
+  C:\Users\Nchourasia\Appdat\Local\Program\Python32 >> ##import Tableausdk
+  C:\Users\Nchourasia\Appdat\Local\Program\Python32 >> ##exit()
+  
 4. python -m setup.py install or pip install pandleau
 
 ### Setting up R
