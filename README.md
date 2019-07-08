@@ -14,7 +14,7 @@ To get .tde output from R
 + Get R, Rstudio and Python installed with the help of IT (Admin rights)
 #### Setting up Tableausdk
 1. Extract the Tableausdk folder
-2. Copy the contents of the folder
+2. Copy the **contents** of the folder
 3. Go to the folder python folder in Python installation (C:/User/nchourasia/Appdata/Local/Program/Python32)
 4. Paste the contents of Tableausdk
 
