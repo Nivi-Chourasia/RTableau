@@ -23,8 +23,8 @@ To get .tde output from R
 2. Navigate to location of Python installation
 3. Type the following commands (highlighted part):
  + C:\Users\Nchourasia\Appdat\Local\Program\Python32 >> ***Python***
- +  >>> ***import Tableausdk***
- - >>> ***exit()***
+ +  **>>>** ***import Tableausdk***
+ -  **>>>** ***exit()***
 4. C:\Users\Nchourasia\Appdat\Local\Program\Python32 >> ***python -m setup.py install*** or ***pip install pandleau***
 
 ### Setting up R
